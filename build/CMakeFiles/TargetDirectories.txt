@@ -1,0 +1,3 @@
+/home/bliu/code/framebuffer/build/CMakeFiles/rebuild_cache.dir
+/home/bliu/code/framebuffer/build/CMakeFiles/framebuffer_mesa_test.dir
+/home/bliu/code/framebuffer/build/CMakeFiles/edit_cache.dir
