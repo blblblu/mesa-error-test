@@ -1,1 +1,0 @@
-/usr/bin/c++   -DGLFW_INCLUDE_NONE   CMakeFiles/framebuffer_mesa_test.dir/main.cpp.o  -o framebuffer_mesa_test -Wl,-rpath,/home/bliu/code/globjects/build:/home/bliu/code/glbinding/build /usr/lib/libglfw.so /home/bliu/code/globjects/build/libglobjects.so /home/bliu/code/glbinding/build/libglbinding.so.3.0.0 /usr/lib/libGLU.so /usr/lib/libGL.so -pthread 
